@@ -8,7 +8,7 @@ if not os.path.exists(input_dir):
     os.makedirs(input_dir)
 
 # --- DATASET 1: R&D EXPENSES (The "Messy" File) ---
-# We need to test if your pipeline can find "research" keywords.
+# We need to test if our pipeline can find "research" keywords.
 expense_data = {
     'Transaction_ID': ['TXN001', 'TXN002', 'TXN003', 'TXN004', 'TXN005', 'TXN002', np.nan, 'TXN006'], # Note the duplicate TXN002 and missing ID
     'Date': ['2025-01-10', '2025-01-12', '2025-01-15', '2025-02-01', '2025-02-20', '2025-01-12', '2025-03-05', '2025-03-10'],
