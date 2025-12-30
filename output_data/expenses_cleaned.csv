@@ -1,0 +1,7 @@
+Transaction_ID,Date,Description,Amount,Department,Is_RnD_Eligible
+TXN001,2025-01-10,AWS Cloud Server for Prototype Hosting,1500.0,IT,True
+TXN002,2025-01-12,Team Lunch at Chipotle,45.5,HR,False
+TXN003,2025-01-15,Python Scripting for Data Analysis,3200.0,IT,True
+TXN004,2025-02-01,Marketing Brochure Printing,150.0,Sales,False
+TXN005,2025-02-20,Lab Equipment - Oscilloscope,12000.0,Engineering,True
+TXN006,2025-03-10,Client Dinner,200.0,Sales,False

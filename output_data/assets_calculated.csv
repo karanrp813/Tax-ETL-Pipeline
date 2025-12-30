@@ -1,0 +1,5 @@
+Asset_ID,Asset_Type,Purchase_Date,Cost,Useful_Life_Years,Purchase_Date_Normalized,Annual_Depreciation
+A100,Laptop,01/15/2024,1200,5,2024-01-15,240.0
+A101,Server,2024-02-20,50000,5,,10000.0
+A102,Office Chair,"March 10, 2024",300,7,,42.86
+A103,3D Printer,2024-05-01,2500,5,,500.0
